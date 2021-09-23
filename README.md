@@ -48,19 +48,19 @@ Position Embedding: For finding word position in sequences we will get a positio
 Transformer Architecture:
 
 <p align="center">
-  <img src="transformer.png?raw=true" width="100%" title="Transformer">
+  <img src="images/transformer.png?raw=true" width="100%" title="Transformer">
 </p>
 
 Self Attention:
 
 <p align="center">
-  <img src="QKV_projection.png?raw=true" height="640px" title="Self Attention">
+  <img src="images/QKV_projection.png?raw=true" height="640px" title="Self Attention">
 </p>
 
 Multi Head Attention:
 
 <p align="center">
-  <img src="MultiHeadAttention.png?raw=true" height="720px" title="MultiHeadAttention">
+  <img src="images/MultiHeadAttention.png?raw=true" height="720px" title="MultiHeadAttention">
 </p>
 
 
@@ -68,7 +68,7 @@ Bert Architecture:
 
 
 <p align="center">
-  <img src="BertArchitecture.png?raw=true" height="1080px" title="BertArchitecture">
+  <img src="images/BertArchitecture.png?raw=true" height="1080px" title="BertArchitecture">
 </p>
 
 
